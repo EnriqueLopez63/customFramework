@@ -1,4 +1,9 @@
 h1 {
-  color: crimson;
-  background-color: aqua;
+  color: rgb(20, 30, 220);
+  background-color: rgb(170, 0, 255);
+}
+
+p {
+  color: rgb(221, 0, 255);
+  background-color: rgb(170, 0, 255);
 }/*# sourceMappingURL=style.css.map */
